@@ -1,0 +1,103 @@
+from scratch composer: 
+['C', 'Am', 'Em', 'G', 'Bm', 'D', 'A', 'C#m', 'B', 'F#m']
+[66, 91, 161, 88, 29, 62, 93, 8, 36, 14]
+
+from scratch jamming:
+['D', 'Dm', 'Am', 'C', 'Fm', 'C#m', 'E', 'Bm', 'Em', 'G', 'A']
+[23, 122, 42, 84, 13, 12, 79, 58, 44, 133, 38]
+
+
+from scratch hybrid:
+['C', 'G', 'Am', 'A', 'E', 'B', 'F#', 'F#m', 'C#m', 'C#', 'Bbm']
+[266, 42, 14, 34, 15, 29, 114, 7, 64, 57, 6]
+
+---------------
+bach unconditioned:
+['G', 'Em', 'D', 'C', 'Bm', 'Am']
+[244, 14, 175, 119, 57, 38]
+
+Piano-e-Competition-unconditioned-relative-transformer-1-30s:
+['Eb', 'Cm', 'F', 'Bbm', 'Ebm', 'Gm', 'Dm', 'Bb']
+[144, 96, 10, 284, 36, 10, 31, 36]
+
+
+Relative Values pitch classes:
+[C,C#,D,D#,E,F,F#,G,G#,A,A#,B]
+[0.19, 0.18, 0.01, 0.1, 0.02, 0.13, 0.03, 0.08, 0.07, 0.0, 0.14, 0.05]
+
+------------------------
+Piano-e-Competition-unconditioned-relative-transformer-2-30s:
+['B', 'Bm', 'Abm', 'Eb', 'Cm', 'Bb', 'Gm', 'Bbm', 'F', 'Fm', 'A']
+[153, 65, 103, 28, 104, 48, 14, 71, 13, 22, 26]
+
+
+Relative Values pitch classes:
+[C,C#,D,D#,E,F,F#,G,G#,A,A#,B]
+[0.13, 0.07, 0.01, 0.11, 0.01, 0.03, 0.02, 0.05, 0.03, 0.04, 0.12, 0.38]
+
+-------------------
+---------------------
+
+grand orchestral arrangement:
+['C', 'G', 'Em', 'A', 'Am', 'D', 'Bm']
+[400, 112, 6, 17, 96, 4, 14]
+
+
+Relative Values pitch classes:
+[C,C#,D,D#,E,F,F#,G,G#,A,A#,B]
+[0.28, 0.0, 0.08, 0.03, 0.13, 0.03, 0.02, 0.31, 0.0, 0.03, 0.03, 0.05]
+
+EDM Track:
+['G', 'D', 'A', 'F#m']
+[18, 596, 28, 5]
+
+
+Relative Values pitch classes:
+[C,C#,D,D#,E,F,F#,G,G#,A,A#,B]
+[0.01, 0.09, 0.59, 0.02, 0.03, 0.01, 0.09, 0.05, 0.01, 0.08, 0.02, 0.0]
+
+Pop dance track: 
+['B', 'Abm', 'Ebm', 'F#', 'F#m', 'C#']
+[225, 319, 41, 30, 24, 8]
+
+
+Relative Values pitch classes:
+[C,C#,D,D#,E,F,F#,G,G#,A,A#,B]
+[0.04, 0.12, 0.02, 0.12, 0.0, 0.04, 0.19, 0.02, 0.17, 0.06, 0.03, 0.2]
+
+
+-------------
+
+
+Blues Rock:
+['Abm', 'B', 'F#', 'Ebm', 'C#', 'C#m', 'F#m', 'D', 'Ab']
+[24, 63, 199, 10, 47, 16, 150, 2, 137]
+
+Relative Values pitch classes:
+[C,C#,D,D#,E,F,F#,G,G#,A,A#,B]
+[0.04, 0.14, 0.07, 0.06, 0.05, 0.05, 0.22, 0.08, 0.13, 0.04, 0.05, 0.07]
+
+
+Rock: 
+['Em', 'Bm', 'B', 'F#m', 'A', 'C#', 'F', 'Fm', 'Am', 'G', 'D']
+[29, 150, 1, 19, 2, 21, 49, 1, 196, 46, 134]
+
+Relative Values pitch classes:
+[C,C#,D,D#,E,F,F#,G,G#,A,A#,B]
+[0.11, 0.02, 0.05, 0.03, 0.08, 0.03, 0.1, 0.12, 0.04, 0.16, 0.09, 0.17]
+
+Soundtrack: 
+['Bb', 'Cm', 'Fm', 'F', 'C', 'Ebm', 'Bbm', 'Ab', 'Eb', 'C#m', 'C#', 'G']
+[178, 56, 101, 41, 72, 21, 18, 107, 19, 5, 18, 12]
+
+
+Relative Values pitch classes:
+[C,C#,D,D#,E,F,F#,G,G#,A,A#,B]
+[0.12, 0.06, 0.04, 0.18, 0.05, 0.28, 0.03, 0.01, 0.06, 0.0, 0.13, 0.04]
+
+
+
+Stayin Alive:
+['Am', 'C#', 'C#m', 'Ab', 'Fm', 'Bbm', 'Cm', 'Bb', 'F', 'Eb', 'Ebm', 'B', 'Dm', 'Gm']
+[41, 16, 3, 304, 2022, 80, 555, 1649, 536, 74, 76, 4, 9, 5]
+
